@@ -4,5 +4,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Gugun09 alt=Gugun09 /> </p>
 
+<p align="center">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Gugun09&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/Gugun09/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gugun09&layout=compact)](https://github.com/Gugun09/github-readme-stats)
+</p>
