@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jqlmsi6kaiatpig5phl6yp764e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/289hp.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
   
 </div>
 
